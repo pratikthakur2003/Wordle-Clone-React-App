@@ -1,6 +1,8 @@
 # This is the Clone of the famous Wordle game.
 I have integrated almost all the functionalities of the game in this game.
-If you have any suggestions, please tell me about it.
+If you have any suggestions, please tell me about it.<br/><br/>
+
+Technologies Used: ReactJS, HTML, CSS, JS
 
 # Screenshot : 
 
